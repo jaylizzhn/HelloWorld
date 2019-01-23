@@ -1,3 +1,3 @@
 # HelloWorld
 
-I'm Jay Li, a student from ECNU!
+I'm Jay Li, a student from CSU!
